@@ -1,0 +1,8 @@
+convec2d.o
+therm1d.o
+trvemat.o
+modltd.o
+therm2d.o
+convec3d.o
+therm3d.o
+convec1d.o
