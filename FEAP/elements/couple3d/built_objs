@@ -1,0 +1,7 @@
+thtrans3d.o
+fld3d1tm.o
+tgrad3df.o
+sld3d2tm.o
+fld3d2tm.o
+sld3d1tm.o
+solid3dtm.o
